@@ -1,0 +1,19 @@
+{
+  "order": [
+    {
+      "orderId": "12",
+      "orderDate": "2022-12-05",
+      "custName": "ffc",
+      "custEmail": "vinay@g.com",
+      "custNumber": "123435",
+      "custAdd": "skdjskgjksjgkjsgjslk",
+      "orderAmt": "0",
+      "cat": "sdf",
+      "iName": "dsf",
+      "iPrice": "2",
+      "iQty": "2",
+      "netAmount": "4",
+      "id": 1
+    }
+  ]
+}
